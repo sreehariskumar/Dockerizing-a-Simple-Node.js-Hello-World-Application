@@ -1,7 +1,7 @@
 # Dockerizing-a-Simple-Node.js-Hello-World-Application
 
 ### Feature:
-In this article, we will walk through the steps to Dockerize a simple Node.js Hello World application, which is a great starting point for beginners who are new to Docker.
+In this article, we will walk through the steps to Dockerize a simple Nodejs Hello World application, which is a great starting point for beginners who are new to Docker.
 
 
 | Docker | Version |
